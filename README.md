@@ -1,2 +1,2 @@
-# Kernel-Sanders
-ECED 4404 Assignment 2
+# Trainset
+ECED 4404 Assignment 3
